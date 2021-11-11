@@ -1,0 +1,63 @@
+New York City, New York - 8,230,290
+Los Angeles, California - 3,983,540
+Chicago, Illinois - 2,679,080
+Houston, Texas - 2,323,660
+Phoenix, Arizona - 1,733,630
+Philadelphia, Pennsylvania - 1,585,010
+San Antonio, Texas - 1,581,730
+Charlotte, North Carolina - 912,096
+Washington, District of Columbia - 714,153
+Boston, Massachusetts - 695,506
+El Paso, Texas - 685,434
+Nashville, Tennessee - 678,448
+Oklahoma City, Oklahoma - 669,347
+Mesa, Arizona - 538,146
+Fresno, California - 537,100
+Sacramento, California - 525,398
+Atlanta, Georgia - 524,067
+Oakland, California - 440,981
+Minneapolis, Minnesota - 439,012
+Tampa, Florida - 404,636
+Tulsa, Oklahoma - 402,742
+Honolulu, Hawaii - 341,302
+Riverside, California - 334,772
+Santa Ana, California - 333,130
+Corpus Christi, Texas - 327,144
+St. Louis, Missouri - 294,890
+Lincoln, Nebraska - 293,446
+Orlando, Florida - 290,520
+Durham, North Carolina - 287,865
+Buffalo, New York - 254,290
+Winston-Salem, North Carolina - 250,765
+Chesapeake, Virginia - 249,787
+Fremont, California - 247,708
+Norfolk, Virginia - 241,056
+Irving, Texas - 236,546
+San Bernardino, California - 214,706
+McKinney, Texas - 214,035
+Fayetteville, North Carolina - 213,475
+Yonkers, New York - 201,344
+Overland Park, Kansas - 201,034
+Salt Lake City, Utah - 200,831
+Amarillo, Texas - 199,747
+Augusta, Georgia - 199,614
+Sioux Falls, South Dakota - 190,583
+Knoxville, Tennessee - 188,085
+Vancouver, Washington - 187,615
+Mobile, Alabama - 186,542
+Cary, North Carolina - 174,762
+Fort Collins, Colorado - 174,081
+Corona, California - 172,652
+Enterprise, Nevada - 171,108
+Jackson, Mississippi - 154,340
+Midland, Texas - 153,768
+Macon County, Georgia - 153,671
+Kansas City, Kansas - 152,950
+Rockford, Illinois - 144,213
+Carrollton, Texas - 143,718
+Bridgeport, Connecticut - 143,653
+Miramar, Florida - 142,445
+Round Rock, Texas - 142,418
+Metairie, Louisiana - 142,135
+Olathe, Kansas - 142,119
+Waco, Texas - 141,936
